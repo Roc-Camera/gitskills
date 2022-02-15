@@ -2,7 +2,7 @@
  * @Author: your name
  * @Date: 2022-02-15 14:15:31
 <<<<<<< HEAD
- * @LastEditTime: 2022-02-15 15:35:38
+ * @LastEditTime: 2022-02-15 15:40:51
 =======
  * @LastEditTime: 2022-02-15 14:36:18
 >>>>>>> feature1
@@ -11,5 +11,4 @@
  * @FilePath: \testd:\workSpace\tset1\gitskills\README.md
 -->
 # gitskills
-Creating a new branch is quick AND simple.
-11
+Creating a new branch is quick  simple.
